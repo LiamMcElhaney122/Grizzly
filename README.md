@@ -1,5 +1,5 @@
-# Husky ML
-Husky ML is a C# machine learning library under development. The goal is to have robust framework for creating machine learning models in a compiled language!
+# Grizzly ML
+Grizzly ML is a C# machine learning library under development. The goal is to have robust framework for creating machine learning models in a compiled language!
 
 It relies on Microsoft dataframes package to load data.
 
